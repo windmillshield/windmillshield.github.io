@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <HTML>
-<head>
+<head  profile="http://www.w3.org/2005/10/profile">
+<link rel="icon" 
+      type="image/png" 
+      href="http://example.com/mylogo.png">
 <title> W&W </title>
 <meta charset="UTF-8">
 <meta name = "description" content="This is my first website. It includes lost of information about my life">
@@ -148,16 +151,11 @@ width: 1240px;
 <div id="Together" class="tabcontent">
 
 <div class="wrapper" style="background-image: url('defu.JPG');">
-
 <h2>Cities they have been to</h2>
 <p style=" color: antiquewhite;"> They meet each other by going to the same places. </p>
-
 <h3 style="color: white; text-align: left;">Xi'an & Xianyang </h3>
 <p style="color: antiquewhite; text-align: left;">Xi'an is a city full of happenings. They were together there in July 2018</p>
-
 </div>
-
-
 </div>
 
 
