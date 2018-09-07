@@ -2,15 +2,17 @@
 <HTML>
 <head  profile="http://www.w3.org/2005/10/profile">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.css">
 <title> W&W </title>
 <meta charset="UTF-8">
 <meta name = "description" content="This is my first website. It includes lost of information about my life">
 <script src="MyScript.js"></script>
+
+<!--
 <style>
 
-
-
 /*Style the header */
+
 
 h1 {
 text-align: center;
@@ -102,20 +104,10 @@ width: 1240px;
     background-size: cover;
 }
 
-@keyframes mymove {
-    from {top: 0px;}
-    to {top: 200px;}
-}
-
-
-.floatingText {
-text-align: center;
-font-style: italic;
-color: dimgray;
-animation-name: mymove;
-animation-duration: 4s;
-}
 </style>
+
+-->
+
 </head>
 
 
@@ -123,7 +115,7 @@ animation-duration: 4s;
 <div class="wrapper" style="background-image: url('them.jpg');">
 <h1> Windmill & Windshield </h1>
 
-<div class="floatingText">
+<div class = "floatText">
 <p> Windmill and Windshield are just two drifters in this curious world.  <br>
  She lives in Singapore, he lives in Chicago. <br> 
  Distance between them is around 15,000 km. <br> 
@@ -131,7 +123,6 @@ animation-duration: 4s;
 </div>
 
 </div>
-
 
 
 <!-- Tab links -->
@@ -172,7 +163,6 @@ animation-duration: 4s;
 <h3 style="color: white; text-align: left;">Xi'an & Xianyang </h3>
 <p style="color: antiquewhite; text-align: left;">Xi'an is a city full of happenings. They were together there in July 2018</p>
 </div>
-
 
 
 
