@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML>
 <head>
-<title> My First Webpage </title>
+<title> W&W </title>
 <meta charset="UTF-8">
 <meta name = "description" content="This is my first website. It includes lost of information about my life">
 <script src="MyScript.js"></script>
@@ -12,6 +12,14 @@
 h1 {
 text-align: center;
 color: grey;
+}
+
+
+h2 {
+text-align: center;
+color: white;
+ont-style: oblique;
+font-weight: bold;
 }
 
 
@@ -108,6 +116,7 @@ width: 1240px;
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks" onclick="openPerson(event, 'Windmill')">Windmill</button>
+  <button class="tablinks" onclick="openPerson(event, 'Together')">Together</button>
   <button class="tablinks" onclick="openPerson(event, 'Windshield')">Windshield</button>
 </div>
 
@@ -131,8 +140,31 @@ width: 1240px;
  <li> <strong>Photography</strong> she loves to capture lights. Follow her Instagram @ <em>ginnyneglige</em> !</li>
  </ul>
  
+</div>
+
+
+
+
+<div id="Together" class="tabcontent">
+
+<div class="wrapper" style="background-image: url('defu.JPG');">
+
+<h2>Cities they have been to</h2>
+<p style=" color: antiquewhite;"> They meet each other by going to the same places. </p>
+
+<h3 style="color: white; text-align: left;">Xi'an & Xianyang </h3>
+<p style="color: antiquewhite; text-align: left;">Xi'an is a city full of happenings. They were together there in July 2018</p>
 
 </div>
+
+
+</div>
+
+
+
+
+
+
 
 <div id="Windshield" class="tabcontent">
 
