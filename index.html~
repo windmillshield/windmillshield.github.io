@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+<title> My First Webpage </title>
+<meta charset="UTF-8">
+<meta name = "description" content="This is my first website. It includes lost of information about my life">
+<script src="MyScript.js"></script>
+<style>
+
+/*Style the header */
+
+h1 {
+text-align: center;
+color: grey;
+}
+
+
+h3 {
+text-align: center;
+color: peru;
+font-style: oblique;
+font-weight: bold;
+}
+
+p {
+
+text-align: center;
+font-style: italic;
+color: dimgray;
+}
+
+ul {
+text-align: center;
+list-style: none;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: olivedrab;
+    text-align: center;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-style: oblique;
+    font-weight: bold;
+    background-color: olive;
+    float none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 40px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: olivedrab;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: olivedrab;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.wrapper {
+width: 1240px;
+    height: 800px;
+    overflow: hidden;
+    background-size: cover;
+}
+</style>
+</head>
+
+
+<body>
+<div class="wrapper" style="background-image: url('them.jpg');">
+<h1> Windmill & Windshield </h1>
+<p> Windmill and Windshield are just two drifters in this curious world.  <br>
+ She lives in Singapore, he lives in Chicago. <br> 
+ Distance between them is around 15,000 km. <br> 
+ But they never cease to learn to love each other. </p>
+<!--<img src="them.jpg" alt="two of them in the first day of being lovers!" class = "center" height="550" width="400"> -->
+</div>
+
+
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openPerson(event, 'Windmill')">Windmill</button>
+  <button class="tablinks" onclick="openPerson(event, 'Windshield')">Windshield</button>
+</div>
+
+<!-- Tab content -->
+
+<div id="Windmill" class="tabcontent">
+ 
+<p> This is a quarry nearby her apartment, it's called Hindhede quarry. </p>
+<img src="DSCF9356.JPG" alt="This is from Hindhede quarry" class = "center"  height="400" width="550"> 
+
+
+ <h3>What does she do? </h3>
+ 
+ <p>She is studying genomics and proteomics in Singapore, check out her github page! <a href="https://github.com/ginnyintifa">ginnyintifa</a></p>
+ 
+ <h3>What are her hobbies? </h3>
+ <p>She is interested in a broad spectrum of things. For example: </p>
+ <ul>
+ <li> <strong>Music</strong> especially Scott Joplin's Ragtime.</li>
+ <li> <strong>Ballet</strong> she is a big fan of George Balanchine.</li>
+ <li> <strong>Photography</strong> she loves to capture lights. Follow her Instagram @ <em>ginnyneglige</em> !</li>
+ </ul>
+ 
+
+</div>
+
+<div id="Windshield" class="tabcontent">
+
+<p> He tried hard to learn sailling but gave up after multiple failures. </p>
+<img src="saillingboats.jpeg" alt="sailling" class = "center" height="400" width="550"> 
+
+
+ <h3>What does he do? </h3>
+ <p>He is studying statistics! <br> <em>
+ WOW!</em> </p>
+ 
+ <h3>More?</h3>
+<p> He is basically a boring guy. LOL. <br>
+ Currently he is under huge pressure of the upcoming qualification examination. Let's cross our fingers for him! </p>
+ 
+ 
+<p> Life is too short, why not get some more tea? </p>
+<img src="teapot.jpeg" alt="tea pot" class = "center"  height="520" width="400"> 
+
+</div>
+
+
+
+ </body>
+ </html>
+ 
+ 
