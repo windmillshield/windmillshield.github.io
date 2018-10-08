@@ -91,6 +91,7 @@ width: 1240px;
     background-size: cover;
 }
 
+
 @keyframes myMove {
   
     from {top: 0px;}
@@ -98,8 +99,9 @@ width: 1240px;
   
 }
 
+
 .floatTex {
-  position: relative;
+ position: relative;
   animation-name: myMove;
-  animation-duration: 10s;
+  animation-duration: 1s;
 }

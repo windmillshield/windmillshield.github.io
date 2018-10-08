@@ -93,14 +93,13 @@ width: 1240px;
 
 @keyframes myMove {
   
-  from {top: 0px;}
+    from {top: 0px;}
     to {top: 800px;}
   
 }
 
-
 .floatTex {
- position: relative;
+  position: relative;
   animation-name: myMove;
-  animation-duration: 1s;
+  animation-duration: 10s;
 }
