@@ -7,6 +7,8 @@
 <meta charset="UTF-8">
 <meta name = "description" content="This is my first website. It includes lost of information about my life">
 <script src="MyScript.js"></script>
+<meta charset="utf-8"> 
+
 
 <!--
 <style>
@@ -158,19 +160,159 @@ width: 1240px;
 
 
 <div id="Together" class="tabcontent" style="background-image: url('defu.JPG');width: 1215px;height: 800px;overflow: hidden;background-size: cover;">
-<h2>Cities they have been to</h2>
-<p style=" color: antiquewhite;"> They meet each other by going to the same places. </p>
-<h3 style="color: white; text-align: left;">Xi'an & Xianyang </h3>
-<p style="color: antiquewhite; text-align: left;">Xi'an is a city full of happenings. They were together there in July 2018</p>
+<h2>Selection of their creations.</h2>
+<p style=" color: antiquewhite;"> They love to create things. </p>
+
+ 
+ 
+ 
+ 
+<button class="collapsible"> 我们还得活多久？ </button>
+<div class="content">
+<h3 style="color: white; text-align: left;"> 我们还得活多久？ by Windshield </h3>
+<p style=" color: antiquewhite; text-align: left; font-style: normal; font-size: 55% ">
+
+一大群蛆住在一个粪坑 。<br>
+
+小蛆突然对大蛆说：“你骗我！”<br>
+
+大蛆很吃惊说：“什么？”<br>
+
+“这里根本不是一个池塘。“小蛆说。<br>
+
+“这里就是一个池塘。“大蛆有点儿奇怪。<br>
+
+“根本不是！“小蛆很激动，“我在书上看到了池塘的照片儿，根本不是这样的！书上说，这里是一个大粪坑。”<br>
+
+“不可能！“大蛆撇撇嘴，说。她并不知道粪坑是个什么玩意儿， 可如果从字面上来理解，装粪的大坑总不会是什么好词儿。于是，正如从小到大，所有人告诉她的一样，她告诉小蛆：“多美的池塘呀，你要学着欣赏她的美。”<br>
+
+“书上还说，我们是蛆。“ 小蛆没有理会大蛆。<br>
+
+“什么呀？我们是天龙人。“ 大蛆更加摸不着头脑。就像歌里唱的一样，所有人都知道，我们是一群骄傲的天龙人，世世代代生活在这美丽的池塘，我爱着这橙澈的池水，和太阳在水面映射出的灿灿金光！蛆？那又是什么东西？这孩子自从被学校退学之后就有点儿秀逗。她有点儿担心。看来得找时间揍一顿了。<br>
+
+“真的，我们是蛆，我们吃的是粪！“见大蛆不相信自己，小蛆更急了。“我得赶快告诉大家！”<br>
+
+没等大蛆反应，小蛆就冲了出去，扯着嗓子喊了起来：“别吃啦！别吃啦！大家听我说，这里是一个大粪坑！我们吃的是粪！”<br>
+
+几只大蛆转过头来，皱了皱眉。一只蛆说：“谁家的孩子？吵死了！能不能管好？“<br>
+
+“就是！正吃东西呢，还能不能让人清静会儿？“其它蛆也附和道。<br>
+
+“我跟你们说，这里不是池塘，是粪坑。你们怎么就不听呢？“小蛆不停大喊。<br>
+
+“你大爷的！嚷什么嚷？再哔哔我削你一顿，信不？“走来的一个壮蛆说，她这几天偏头痛，正想找人出气。<br>
+
+一听有可能动手，蛆群聚拢了起来。反正挨削的不是自己，她们都希望打得越激烈越好，等着看一场好戏。<br>
+
+“削他！“<br>
+
+“狠狠揍！“大家纷纷撺掇。<br>
+
+小蛆有点儿怕了，可还是说：“不是，你听我说呀，这里是个大粪......“<br>
+
+坑字还没说出口，壮蛆就嗷得一嗓子冲了过去，把小蛆一顿猛削。<br>
+
+“你大爷的，给我跪下，唱，我们是一群骄傲的天龙人！“ 壮蛆还不解气，说。<br>
+
+小蛆擦了擦脸上的血，唱了起来。壮蛆离开，蛆群渐渐散去。<br>
+
+小蛆抬头一看，眼前还剩一个人，正关切地看着自己。这个蛆把她扶起来，说：“你还好吧？”<br>
+
+小蛆像看到了救星，说：“你要相信我呀，这里不是个池塘。“<br>
+
+“我知道。“<br>
+
+“我们是蛆，吃的其实是大粪。“<br>
+
+“对。“<br>
+
+“你相信我？大家都不相信我。“小蛆说。<br>
+
+“我信你。你说的都对，这里是粪坑，我们是蛆。她们麻木无知又冷漠无情。可是你得明白一件事。“<br>
+
+“什么事？“<br>
+
+“就算她们不再麻木，不再冷漠，相信你说的一切，世界也不会因此变好。这个粪坑永远不会变成池塘。我们是蛆，就是得呆在粪坑，食粪。“<br>
+
+小蛆愣住了。张了张嘴，却什么也说不出口。<br>
+
+“走吧，我送你回家。“<br>
+
+小蛆回到家，坐在地上，一言不发。过了很久，她说：“我们还得活多久？”<br>
+
+ </p>
+ 
+</div> 
+ 
+ 
+ 
+ 
+ 
+<button class="collapsible"> 黑巧克力</button>
+<div class="content">
+<h3 style="color: white; text-align: left;"> 黑巧克力 by Windmill </h3>
+<p style=" color: antiquewhite; text-align: left; font-size: 55%">
+
+<br>
+那天晚上在西安，<br>
+我穿了你的黑T恤，<br>
+我们躺在一张床上，<br>
+等了七年多，<br>
+又熬过好几个小时，<br>
+终于被你揽进怀里。<br>
+
+<br>
+
+我记得，<br>
+你问，可以抱得更紧些吗？<br>
+我渴望就像那样，<br>
+紧紧地被你抱着，<br>
+像一块黑巧克力，<br>
+融化在你的体温里。<br>
+
+
+ </p>
+ 
+</div> 
+ 
+
 </div>
+
+
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+
+
+
+
+
+
 
 
 
 
 <div id="Updates" class="tabcontent" style="background-image: url('bridge.jpg');width: 1215px;height: 800px;overflow: hidden;background-size: cover;">
 <h2>News</h2>
-<p style=" color: beige;"> Tracking events happend to them over time. </p>
-<h3 style="color: peru; text-align: left;"> They are together! </h3>
+<p style=" color: beige;"> Recording events happened to them over time. </p>
+<h3 style="color: peru; text-align: left;"> They are together! He sent invitation to her during his visit in Xi'an and Xianyang. </h3>
 <p style=" color: beige;text-align: left;">   2018/07/11, what a day to be remembered!</p>
 <h3 style="color: peru; text-align: left;"> Windshield turning 26! </h3>
 <p style=" color: beige;text-align: left;">  2018/08/16, he is always older than her!</p>

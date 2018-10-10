@@ -19,7 +19,7 @@ function openPerson(evt, cityName) {
     evt.currentTarget.className += " active";
 }
 
-/*
+
 function openArticle() {
 	
         var coll = document.getElementsByClassName("collapsible");
@@ -38,4 +38,3 @@ function openArticle() {
   }
 
 }
-*/
