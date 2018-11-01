@@ -1,6 +1,14 @@
 
 /*Style the header */
 
+
+body, html {
+  height: 100%;
+  margin: 0;
+  /*font-family: Arial, Helvetica, sans-serif;*/
+}
+
+
 article { 
     display: block;
 }
@@ -85,7 +93,9 @@ list-style: none;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
-    background-color: beige;
+background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHhtbG5zOnhsaW5rPSdodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rJyB3aWR0aD0nNicgaGVpZ2h0PSc2Jz4KICA8cmVjdCB3aWR0aD0nNicgaGVpZ2h0PSc2JyBmaWxsPScjZWVlZWVlJy8+CiAgPGcgaWQ9J2MnPgogICAgPHJlY3Qgd2lkdGg9JzMnIGhlaWdodD0nMycgZmlsbD0nI2U2ZTZlNicvPgogICAgPHJlY3QgeT0nMScgd2lkdGg9JzMnIGhlaWdodD0nMicgZmlsbD0nI2Q4ZDhkOCcvPgogIDwvZz4KICA8dXNlIHhsaW5rOmhyZWY9JyNjJyB4PSczJyB5PSczJy8+Cjwvc3ZnPg=="); 
+background-repeat: repeat; 
+
 }
 
 .wrapper {
@@ -140,6 +150,50 @@ width: 1240px;
 
 
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 1px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.bg-image {
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Images used */
+.img1 { background-image: url("defu.jpeg"); }
+.img2 { background-image: url("lotus.jpeg"); }
+.img3 { background-image: url("woods.jpeg"); }
 
 
+body, html {
+    height: 100%;
+    margin: 0;
+}
 
+.bg {
+    /* The image used */
+    background-image: url("lotus.jpeg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

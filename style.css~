@@ -1,6 +1,14 @@
 
 /*Style the header */
 
+
+body, html {
+  height: 100%;
+  margin: 0;
+  /*font-family: Arial, Helvetica, sans-serif;*/
+}
+
+
 article { 
     display: block;
 }
@@ -85,7 +93,8 @@ list-style: none;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
-    background-color: beige;
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMScgaGVpZ2h0PScxJyBmaWxsPSdibGFjaycgLz4KPC9zdmc+"); background-repeat: repeat;
+
 }
 
 .wrapper {
@@ -126,7 +135,8 @@ width: 1240px;
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
-  background-color: olivedrab;
+  background-color: olive;
+  
 }
 
 /* Style the collapsible content. Note: hidden by default */
@@ -139,6 +149,50 @@ width: 1240px;
 
 
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 1px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.bg-image {
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Images used */
+.img1 { background-image: url("defu.jpeg"); }
+.img2 { background-image: url("lotus.jpeg"); }
+.img3 { background-image: url("woods.jpeg"); }
 
 
+body, html {
+    height: 100%;
+    margin: 0;
+}
 
+.bg {
+    /* The image used */
+    background-image: url("lotus.jpeg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
