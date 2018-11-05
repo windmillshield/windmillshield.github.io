@@ -225,7 +225,11 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
 
 
 
-<div id="Updates" class="tabcontent" style="background-image: url('bridge.jpg');width: 1215px;height: 800px;overflow: hidden;background-size: cover;">
+
+
+
+<div class="wrapper" style="background-image: url('bridge.jpg');">
+
 <h2>News</h2>
 <p style=" color: beige;"> Recording events happened to them over time. </p>
 <h3 style="color: peru; text-align: left;"> Windmill finally got to watch TanYuanyuan's performance in HK. </h3>
@@ -337,7 +341,7 @@ function myMap() {
       ['Evanston', 40.0451, -87.6877],
       ["Xi'an", 34.3416, 108.9398],
       ['Weihai', 37.5131, 122.1204],
-      ['Jinan', 36.6512, 117.1201]
+      ['Jinan', 36.6512, 117.1201],
       ['Beijing', 39.9042, 116.4074]
     ];
 
