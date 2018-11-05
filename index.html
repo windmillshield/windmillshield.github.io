@@ -38,6 +38,7 @@
   <button class="tablinks" onclick="openPerson(event, 'Windmill')">Windmill</button>
   <button class="tablinks" onclick="openPerson(event, 'Together')">Together</button>
    <button class="tablinks" onclick="openPerson(event, 'Updates')">Updates</button>
+      <button class="tablinks" onclick="openPerson(event, 'Sharing')">Sharing</button>
   <button class="tablinks" onclick="openPerson(event, 'Windshield')">Windshield</button>
 </div>
 
@@ -215,25 +216,6 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
 
 
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-
-
-
 
 
 
@@ -268,9 +250,77 @@ for (i = 0; i < coll.length; i++) {
 
 
 
+<div id="Sharing" class="tabcontent">
+
+
+<p> Beautiful things shared between them </p>
+
+
+<button class="collapsible" style="color: darkkhaki;"> Movies</button>
+<div class="content">
+
+<h2 style="color: darkgoldenrod;">阿飞正传/Days of being wild</h2>
+<h3>王家卫，1990</h3>
+<p>They watched this movie in Xi'an. The movie tells a very romantic story.
+ Windmill was touched by how fearless the charactors were in pursuing their romance.</p>
+ 
+ 
+<h2 style="color: darkgoldenrod;">大象席地而坐/An elephant sitting still</h2>
+<h3>胡波，2018</h3>
+<p>Windshield loves this movie, he wrote something after watching it. </p>
+ 
+ 
+</div> 
+ 
+ 
+ 
+<button class="collapsible" style="color: darkkhaki;">Books</button>
+<div class="content">
+
+<h2 style="color: darkgoldenrod;">1984</h2>
+<h3>George Orwell，1949</h3>
+<p>Windshield recommended this book to Windmill, she has never read such a book before, it was mind-blowing.</p>
+ 
+
+</div>
+
+
+<button class="collapsible" style="color: darkkhaki;"> Music</button>
+<div class="content">
+<h2 style="color: darkgoldenrod;">As time goes by</h2>
+<h3>From movie "Casablanca"</h3>
+<p>"The world will always welcome lovers."</p>
+</div>
+  
+
+ 
+</div>
+
+
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+
+
+
 <div id="Windshield" class="tabcontent">
-
-
 
 <img src="saillingboats.jpeg" alt="sailling" class = "center"  style="width:100%"> 
 <p> He tried hard to learn sailling but gave up after multiple failures. </p>
