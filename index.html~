@@ -20,7 +20,7 @@
 <div class = "floatText">
 <p> Windmill and Windshield are just two drifters in this curious world.  <br>
  She lives in Singapore, he lives in Chicago. <br> 
- Distance between them is around 15,000 km. <br> 
+ Distance between them is about 15,000 km. <br> 
  But they never cease to learn to love each other. </p>
 </div>
 
@@ -177,7 +177,7 @@
  
 <button class="collapsible" style="color: darkkhaki;"> 红</button>
 <div class="content">
-<h3 style="color: black; text-align: left;"> 红 by Windshiel & Windmill </h3>
+<h3 style="color: black; text-align: left;"> 红 by Windshield & Windmill </h3>
 <p style=" color: black; text-align: left; font-size: 85%">
 This is Windmill's 26th birthday gift given by Windshield. She loves it!
  </p>
@@ -239,8 +239,10 @@ for (i = 0; i < coll.length; i++) {
 <div id="Updates" class="tabcontent" style="background-image: url('bridge.jpg');width: 1215px;height: 800px;overflow: hidden;background-size: cover;">
 <h2>News</h2>
 <p style=" color: beige;"> Recording events happened to them over time. </p>
+<h3 style="color: peru; text-align: left;"> Windmill finally got to watch TanYuanyuan's performance in HK. </h3>
+<p style=" color: beige;text-align: left;">  2018/11/02, she has be longing to watch her Carmen since 15 years old.</p>
 <h3 style="color: peru; text-align: left;"> Windshield was told to choose 1 research topic among 3 choices </h3>
-<p style=" color: beige;text-align: left;">  2018/10/18, Ummm, wish he will find his niche!</p>
+<p style=" color: beige;text-align: left;">  2018/10/18, Ummm, wish he will find his niche! Later he said he chosed to study block chain.</p>
 <h3 style="color: peru; text-align: left;"> Windmill turning 26! </h3>
 <p style=" color: beige;text-align: left;">  2018/10/07, getting older also means getting wiser and prettier!</p>
 <h3 style="color: peru; text-align: left;"> Windsheild passed QE! </h3>
