@@ -71,7 +71,7 @@
 <p style=" color: gray;"> They love to create things. </p>
 
  
-<button class="collapsible", style=" color: darkkhaki;"> 我们还得活多久？ </button>
+<button class="collapsible", style=" color: darkgoldenrod;;"> 我们还得活多久？ </button>
 <div class="content">
 <h3 style="color: black; text-align: left;"> 我们还得活多久？ by Windshield </h3>
 <p style=" color: black; text-align: left; font-style: normal; font-size: 85% ">
@@ -152,7 +152,7 @@
  
  
  
-<button class="collapsible" style="color: darkkhaki;;"> 黑巧克力</button>
+<button class="collapsible" style="color: darkgoldenrod;"> 黑巧克力</button>
 <div class="content">
 <h3 style="color: black; text-align: left;"> 黑巧克力 by Windmill </h3>
 <p style=" color: black; text-align: left; font-style: normal; font-size: 85% ">
@@ -182,7 +182,7 @@
  
  
  
-<button class="collapsible" style="color: darkkhaki;"> 红</button>
+<button class="collapsible" style="color: darkgoldenrod;"> 红</button>
 <div class="content">
 <h3 style="color: black; text-align: left;"> 红 by Windshield & Windmill </h3>
 <p style=" color: black; text-align: left; font-size: 85%">
@@ -256,8 +256,7 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
 <p> Beautiful things shared between them </p>
 
 
-
-<button class="collapsible" style="color: darkkhaki;"> Movies</button>
+<button class="collapsible" style="color: darkgoldenrod;"> Movies</button>
 <div class="content">
 
 <h2 style="color: darkgoldenrod;">阿飞正传/Days of being wild</h2>
@@ -275,7 +274,7 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
  
  
  
-<button class="collapsible" style="color: darkkhaki;">Books</button>
+<button class="collapsible" style="color: darkgoldenrod;">Books</button>
 <div class="content">
 
 <h2 style="color: darkgoldenrod;">1984</h2>
@@ -286,7 +285,7 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
 </div>
 
 
-<button class="collapsible" style="color: darkkhaki;"> Music</button>
+<button class="collapsible" style="color: darkgoldenrod;"> Music</button>
 <div class="content">
 <h2 style="color: darkgoldenrod;">As time goes by</h2>
 <h3>From movie "Casablanca"</h3>
