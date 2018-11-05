@@ -19,59 +19,14 @@
 <div class="wrapper" style="background-image: url('them.jpg');">
 <h1> Windmill & Windshield </h1>
 
-
-
-
 <div class = "floatText">
 <p> Windmill and Windshield are just two drifters in this curious world.  <br>
  She lives in Singapore, he lives in Chicago. <br> 
  Distance between them is about 15,000 km. <br> 
  But they never cease to learn to love each other.
-<br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- 
  </p>
 
-<p style="text-align: center; color: darkgray;"> photo shoot by Windmill in an old hotel corridor.
- </p>
-  
-  
 </div>
-
-
 
 </div>
 
@@ -111,7 +66,7 @@
 
  
  
-<h2 style = " color: darkgray;">Selection of their creations.</h2>
+<h2 style = " color: darkgray;">Selection of their creations</h2>
 <p style=" color: gray;"> They love to create things. </p>
 
  
@@ -237,7 +192,7 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
  <div class="row">
  
   <div class="column">
- <img src="bd_gift_ws.jpeg" alt="Story" style="width:100%"> 
+ <img src="bd_gift_ws.jpeg" alt="Story" style="width:100%; height: 50%"> 
   </div>
   
   <div class="column">

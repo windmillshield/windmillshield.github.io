@@ -155,7 +155,7 @@ height: 130%;
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 33.33%;
+  width: 48%;
   padding: 1px;
 }
 

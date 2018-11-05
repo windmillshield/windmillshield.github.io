@@ -108,8 +108,8 @@ height: 130%;
 
 
 @keyframes myMove{
-  
     from {top: 0px;}
+    
     to {top: 800px;}
   
 }
@@ -155,7 +155,7 @@ height: 130%;
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 33.33%;
+  width: 47%;
   padding: 1px;
 }
 
