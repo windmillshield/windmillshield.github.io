@@ -262,7 +262,7 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
 <p> Beautiful things shared between them </p>
 
 
-<button class="collapsible" style="color: darkgoldenrod;"> Movies</button>
+<button class="collapsible" style="color: darkgoldenrod;"> Movie</button>
 <div class="content">
 
 <h2 style="color: darkgoldenrod;">阿飞正传/Days of being wild</h2>
@@ -286,7 +286,7 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
  
  
  
-<button class="collapsible" style="color: darkgoldenrod;">Books</button>
+<button class="collapsible" style="color: darkgoldenrod;">Book</button>
 <div class="content">
 
 <h2 style="color: darkgoldenrod;">1984</h2>
@@ -307,14 +307,30 @@ This is Windmill's 26th birthday gift given by Windshield. She loves it!
 
 <button class="collapsible" style="color: darkgoldenrod;"> Painting</button>
 <div class="content">
-<p> Art Institute Chicago just released its huge amount of online resource to public. Windmill selects her favorite pieces and share with Windshield.
 
 <h2 style="color: darkgoldenrod;">A Sunday on La Grande Jatte</h2>
 <h3>Georges Seurat, 1884/86, French</h3>
-<img src="a_sunday_on_LGJ.jpeg" alt="Sunday" class = "center"  style="width: 100%"> 
+<img src="a_sunday_on_LGJ.jpeg" alt="Sunday" class = "center"  style="width: 80%"> 
 <p>Hilarity</p>
+
+
+<h2 style="color: darkgoldenrod;">Bal du moulin de la Galette</h2>
+<h3>Pierre-Auguste Renoir, 1876, French</h3>
+<img src="renoir_dance.jpg" alt="Dance" class = "center"  style="width: 80%"> 
+<p>See how lights shed on people and the ground, it's marvelous.</p>
+
+
+
+<h2 style="color: darkgoldenrod;">The Luncheon on the Grass</h2>
+<h3>Edouard Manet, 1863, French</h3>
+<img src="luncheon_manet.jpg" alt="Luncheon" class = "center"  style="width: 80%"> 
+<p>Love the way she looks right into the viewers which makes her totally alive.</p>
+
+
 </div>
   
+ 
+ 
  
 </div>
 
